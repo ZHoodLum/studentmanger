@@ -1,0 +1,8 @@
+D:\vs2010\workplace\15计算机demo\作业登陆界面\bin\Debug\作业登陆界面.exe
+D:\vs2010\workplace\15计算机demo\作业登陆界面\bin\Debug\作业登陆界面.pdb
+D:\vs2010\workplace\15计算机demo\作业登陆界面\obj\x86\Debug\作业登陆界面.Form1.resources
+D:\vs2010\workplace\15计算机demo\作业登陆界面\obj\x86\Debug\作业登陆界面.Properties.Resources.resources
+D:\vs2010\workplace\15计算机demo\作业登陆界面\obj\x86\Debug\作业登陆界面.csproj.GenerateResource.Cache
+D:\vs2010\workplace\15计算机demo\作业登陆界面\obj\x86\Debug\作业登陆界面.exe
+D:\vs2010\workplace\15计算机demo\作业登陆界面\obj\x86\Debug\作业登陆界面.pdb
+D:\vs2010\workplace\15计算机demo\作业登陆界面\obj\x86\Debug\作业登陆界面.csprojResolveAssemblyReference.cache

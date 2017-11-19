@@ -1,0 +1,5 @@
+D:\vs2010\workplace\15计算机demo\作业1\bin\Debug\作业1.exe
+D:\vs2010\workplace\15计算机demo\作业1\bin\Debug\作业1.pdb
+D:\vs2010\workplace\15计算机demo\作业1\obj\x86\Debug\作业1.exe
+D:\vs2010\workplace\15计算机demo\作业1\obj\x86\Debug\作业1.pdb
+D:\vs2010\workplace\15计算机demo\作业1\obj\x86\Debug\作业1.csprojResolveAssemblyReference.cache

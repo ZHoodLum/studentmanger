@@ -1,0 +1,4 @@
+D:\vs2010\workplace\15计算机demo\数组\bin\Debug\数组.exe
+D:\vs2010\workplace\15计算机demo\数组\bin\Debug\数组.pdb
+D:\vs2010\workplace\15计算机demo\数组\obj\x86\Debug\数组.exe
+D:\vs2010\workplace\15计算机demo\数组\obj\x86\Debug\数组.pdb

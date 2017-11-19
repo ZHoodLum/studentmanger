@@ -1,0 +1,11 @@
+D:\vs2010\workplace\15计算机demo\公共项\bin\Debug\公共项.exe
+D:\vs2010\workplace\15计算机demo\公共项\bin\Debug\公共项.pdb
+D:\vs2010\workplace\15计算机demo\公共项\obj\x86\Debug\公共项.Form1.resources
+D:\vs2010\workplace\15计算机demo\公共项\obj\x86\Debug\公共项.Properties.Resources.resources
+D:\vs2010\workplace\15计算机demo\公共项\obj\x86\Debug\公共项.csproj.GenerateResource.Cache
+D:\vs2010\workplace\15计算机demo\公共项\obj\x86\Debug\公共项.exe
+D:\vs2010\workplace\15计算机demo\公共项\obj\x86\Debug\公共项.pdb
+D:\vs2010\workplace\15计算机demo\公共项\obj\x86\Debug\公共项.Form2.resources
+D:\vs2010\workplace\15计算机demo\公共项\obj\x86\Debug\公共项.csprojResolveAssemblyReference.cache
+D:\vs2010\workplace\15计算机demo\公共项\obj\x86\Debug\公共项.Form3.resources
+D:\vs2010\workplace\15计算机demo\公共项\obj\x86\Debug\公共项.Form4.resources

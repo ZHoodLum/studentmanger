@@ -1,0 +1,4 @@
+D:\vs2010\workplace\15计算机demo\类的应用\bin\Debug\类的应用.exe
+D:\vs2010\workplace\15计算机demo\类的应用\bin\Debug\类的应用.pdb
+D:\vs2010\workplace\15计算机demo\类的应用\obj\x86\Debug\类的应用.exe
+D:\vs2010\workplace\15计算机demo\类的应用\obj\x86\Debug\类的应用.pdb

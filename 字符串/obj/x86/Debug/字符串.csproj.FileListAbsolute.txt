@@ -1,0 +1,4 @@
+D:\vs2010\workplace\15计算机demo\字符串\bin\Debug\字符串.exe
+D:\vs2010\workplace\15计算机demo\字符串\bin\Debug\字符串.pdb
+D:\vs2010\workplace\15计算机demo\字符串\obj\x86\Debug\字符串.exe
+D:\vs2010\workplace\15计算机demo\字符串\obj\x86\Debug\字符串.pdb

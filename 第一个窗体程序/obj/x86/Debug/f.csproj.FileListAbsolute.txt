@@ -1,0 +1,7 @@
+E:\vc2010\vs2010\workplace\15计算机demo\第一个窗体程序\bin\Debug\第一个窗体程序.exe
+E:\vc2010\vs2010\workplace\15计算机demo\第一个窗体程序\bin\Debug\第一个窗体程序.pdb
+E:\vc2010\vs2010\workplace\15计算机demo\第一个窗体程序\obj\x86\Debug\第一个窗体程序.Form1.resources
+E:\vc2010\vs2010\workplace\15计算机demo\第一个窗体程序\obj\x86\Debug\第一个窗体程序.Properties.Resources.resources
+E:\vc2010\vs2010\workplace\15计算机demo\第一个窗体程序\obj\x86\Debug\f.csproj.GenerateResource.Cache
+E:\vc2010\vs2010\workplace\15计算机demo\第一个窗体程序\obj\x86\Debug\第一个窗体程序.exe
+E:\vc2010\vs2010\workplace\15计算机demo\第一个窗体程序\obj\x86\Debug\第一个窗体程序.pdb
